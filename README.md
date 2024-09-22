@@ -2,6 +2,8 @@
 
 A fun memory game developed using **HTML, CSS, JavaScript, and jQuery**.
 
+## Website Live at: [Click for Simon Game](https://anurag1023.github.io/SimonGame/)
+
 ## Table of Contents
 - Introduction
 - Features
